@@ -278,13 +278,6 @@ namespace Treino_Formulario_WinFroms
             return false;
         }
 
-        /*private int difInputDataEAnoAtual()
-        {
-            if()
-
-            return 0;
-        }
-        */
         //Outros
 
         private void form_Formulario_Enter(object sender, EventArgs e)
